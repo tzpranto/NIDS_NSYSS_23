@@ -29,7 +29,7 @@ If you use this code for publication, please cite the original paper.
   number={},
   pages={},
   doi= {},
-  publisher = {ACM
+  publisher = {ACM}
 }
 ```
 
