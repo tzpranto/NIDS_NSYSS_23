@@ -21,7 +21,7 @@ If you use this code for publication, please cite the original paper.
 ```
 @inproceedings{nids-nsyss-2023,
   title={A Deep Learning Based Semi-Supervised Network Intrusion Detection System Robust to Adversarial Attacks},
-  author={Mukit Rashid, and Toufikuzzaman, Md. and Hossain, Md. Shohrab},
+  author={Mukit Rashid, Syed Md. and Toufikuzzaman, Md. and Hossain, Md. Shohrab},
   booktitle={10th International Conference on Networking Systems and Security (NSysS)},
   year={2023},
   address = {Dhaka, Bangladesh},
