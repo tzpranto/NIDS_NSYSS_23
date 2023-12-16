@@ -2,8 +2,8 @@
 
 ## Introduction
 A Deep Learning Based Semi-Supervised Network Intrusion Detection System Robust to Adversarial Attacks.
-*[Paper Link](https://doi.org/10.1145/3629188.3629189)
-*[Unofficial PDF Version](https://mshohrabhossain.buet.ac.bd/pub/23-NSysS-NIDS-Camera.pdf)
+* [Paper Link](https://doi.org/10.1145/3629188.3629189)
+* [Unofficial PDF Version](https://mshohrabhossain.buet.ac.bd/pub/23-NSysS-NIDS-Camera.pdf)
 ## Released Experiments
 1. Semi-Supervised Learning Model
 2. Adversarial Testing
