@@ -27,8 +27,8 @@ If you use this code for publication, please cite the original paper.
   address = {Dhaka, Bangladesh},
   volume={},
   number={},
-  pages={},
-  doi= {},
+  pages={25--34},
+  doi= {https://doi.org/10.1145/3629188.3629189},
   publisher = {ACM}
 }
 ```
